@@ -1,0 +1,488 @@
+<svg width="900" height="300" viewBox="0 0 900 300"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <!-- Background -->
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#181525"/>
+    <stop offset="50%" stop-color="#241c35"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+
+  <!-- Cat shadow -->
+  <filter id="shadow">
+    <feDropShadow
+      dx="0"
+      dy="8"
+      stdDeviation="8"
+      flood-opacity=".35"/>
+  </filter>
+
+</defs>
+
+
+<!-- ================================= -->
+<!-- BACKGROUND -->
+<!-- ================================= -->
+
+<rect
+  width="900"
+  height="300"
+  rx="24"
+  fill="url(#bg)"/>
+
+
+<!-- Decorative glow -->
+
+<circle
+  cx="80"
+  cy="50"
+  r="70"
+  fill="#a855f7"
+  opacity=".08"/>
+
+<circle
+  cx="820"
+  cy="240"
+  r="100"
+  fill="#22d3ee"
+  opacity=".06"/>
+
+
+<!-- ================================= -->
+<!-- TWINKLING STARS -->
+<!-- ================================= -->
+
+<g fill="#f9a8d4">
+
+  <circle
+    cx="90"
+    cy="220"
+    r="2">
+
+    <animate
+      attributeName="opacity"
+      values=".2;1;.2"
+      dur="2s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <circle
+    cx="170"
+    cy="45"
+    r="2">
+
+    <animate
+      attributeName="opacity"
+      values="1;.2;1"
+      dur="2.5s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <circle
+    cx="760"
+    cy="55"
+    r="2">
+
+    <animate
+      attributeName="opacity"
+      values=".2;1;.2"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+</g>
+
+
+<!-- ================================= -->
+<!-- CUTE CODING CAT -->
+<!-- ================================= -->
+
+<g filter="url(#shadow)">
+
+  <!-- Floating animation -->
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 4;0 -5;0 4"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+
+  <!-- Tail -->
+
+  <path
+    d="
+      M225 205
+      C275 185 280 235 245 235
+      C220 235 225 215 247 218
+    "
+    fill="none"
+    stroke="#f59e9e"
+    stroke-width="9"
+    stroke-linecap="round"/>
+
+
+  <!-- Body -->
+
+  <ellipse
+    cx="170"
+    cy="205"
+    rx="55"
+    ry="42"
+    fill="#ffdcdc"/>
+
+
+  <!-- Head -->
+
+  <path
+    d="
+      M115 145
+      L120 100
+      L145 120
+      Q170 108 195 120
+      L220 100
+      L225 145
+      Q228 180 170 185
+      Q112 180 115 145Z
+    "
+    fill="#ffe3e3"
+    stroke="#f3a6a6"
+    stroke-width="3"/>
+
+
+  <!-- Left ear -->
+
+  <path
+    d="
+      M125 113
+      L128 135
+      L143 122
+      Z
+    "
+    fill="#f5a6b6"/>
+
+
+  <!-- Right ear -->
+
+  <path
+    d="
+      M215 113
+      L212 135
+      L197 122
+      Z
+    "
+    fill="#f5a6b6"/>
+
+
+  <!-- ================================= -->
+  <!-- BLINKING EYES -->
+  <!-- ================================= -->
+
+  <ellipse
+    cx="148"
+    cy="145"
+    rx="6"
+    ry="8"
+    fill="#493d4b">
+
+    <animate
+      attributeName="ry"
+      values="8;8;1;8;8"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </ellipse>
+
+
+  <ellipse
+    cx="192"
+    cy="145"
+    rx="6"
+    ry="8"
+    fill="#493d4b">
+
+    <animate
+      attributeName="ry"
+      values="8;8;1;8;8"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </ellipse>
+
+
+  <!-- Eye shine -->
+
+  <circle
+    cx="150"
+    cy="142"
+    r="2"
+    fill="white"/>
+
+  <circle
+    cx="194"
+    cy="142"
+    r="2"
+    fill="white"/>
+
+
+  <!-- ================================= -->
+  <!-- BLUSH -->
+  <!-- ================================= -->
+
+  <ellipse
+    cx="132"
+    cy="158"
+    rx="12"
+    ry="6"
+    fill="#f5a6b6"
+    opacity=".55"/>
+
+  <ellipse
+    cx="208"
+    cy="158"
+    rx="12"
+    ry="6"
+    fill="#f5a6b6"
+    opacity=".55"/>
+
+
+  <!-- Nose -->
+
+  <path
+    d="
+      M166 157
+      Q170 153 174 157
+      Q170 162 166 157Z
+    "
+    fill="#e88c9c"/>
+
+
+  <!-- Smile -->
+
+  <path
+    d="
+      M170 161
+      Q165 168 159 164
+
+      M170 161
+      Q175 168 181 164
+    "
+    fill="none"
+    stroke="#704b59"
+    stroke-width="2"
+    stroke-linecap="round"/>
+
+
+  <!-- ================================= -->
+  <!-- LAPTOP -->
+  <!-- ================================= -->
+
+  <!-- Laptop screen -->
+
+  <rect
+    x="135"
+    y="195"
+    width="70"
+    height="40"
+    rx="6"
+    fill="#353142"/>
+
+
+  <!-- Screen -->
+
+  <rect
+    x="142"
+    y="201"
+    width="56"
+    height="27"
+    rx="3"
+    fill="#12101a"/>
+
+
+  <!-- Code -->
+
+  <text
+    x="170"
+    y="219"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="10"
+    font-weight="bold"
+    fill="#ff9fb0">
+
+    &lt;/&gt;
+
+  </text>
+
+
+  <!-- Laptop base -->
+
+  <path
+    d="
+      M125 236
+      Q170 246 215 236
+      L225 243
+      Q170 255 115 243Z
+    "
+    fill="#494555"/>
+
+</g>
+
+
+<!-- ================================= -->
+<!-- FLOATING HEART -->
+<!-- ================================= -->
+
+<text
+  x="100"
+  y="125"
+  font-size="18"
+  fill="#f59eae">
+
+  ♥
+
+
+  <animate
+    attributeName="y"
+    values="125;105;125"
+    dur="2.5s"
+    repeatCount="indefinite"/>
+
+
+  <animate
+    attributeName="opacity"
+    values="0;1;0"
+    dur="2.5s"
+    repeatCount="indefinite"/>
+
+</text>
+
+
+<!-- ================================= -->
+<!-- INTRO TEXT -->
+<!-- ================================= -->
+
+<text
+  x="330"
+  y="82"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="17"
+  fill="#f9a8d4">
+
+  Hello, I'm
+
+</text>
+
+
+<!-- ================================= -->
+<!-- NAME -->
+<!-- ================================= -->
+
+<text
+  x="330"
+  y="125"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="35"
+  font-weight="700"
+  fill="white">
+
+  Bhavya Sri Vakkalagadda
+
+</text>
+
+
+<!-- ================================= -->
+<!-- UNIQUE TAGLINE -->
+<!-- ================================= -->
+
+<text
+  x="330"
+  y="158"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="19"
+  font-weight="600"
+  fill="#ffffff">
+
+  Turning Curiosity into Code
+
+</text>
+
+
+<!-- ================================= -->
+<!-- DESCRIPTION -->
+<!-- ================================= -->
+
+<text
+  x="330"
+  y="184"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="15"
+  fill="#a5b4fc">
+
+  Web Experiences • AI Experiments • Continuous Learning
+
+</text>
+
+
+<!-- ================================= -->
+<!-- IDEAS CODE IMPACT -->
+<!-- ================================= -->
+
+<rect
+  x="330"
+  y="210"
+  width="250"
+  height="38"
+  rx="19"
+  fill="#ffffff"
+  opacity=".06"
+  stroke="#a855f7"
+  stroke-opacity=".5"/>
+
+
+<text
+  x="455"
+  y="235"
+  text-anchor="middle"
+  font-family="monospace"
+  font-size="14"
+  fill="#e9d5ff">
+
+  &lt; Ideas → Code → Impact /&gt;
+
+</text>
+
+
+<!-- ================================= -->
+<!-- ANIMATED BOTTOM LINE -->
+<!-- ================================= -->
+
+<path
+  d="
+    M40 275
+    C220 265 350 282 470 272
+    S720 260 860 275
+  "
+  fill="none"
+  stroke="#f9a8d4"
+  stroke-opacity=".35"
+  stroke-width="2">
+
+  <animate
+    attributeName="stroke-opacity"
+    values=".15;.6;.15"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+</path>
+
+
+</svg>
