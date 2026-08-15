@@ -106,41 +106,10 @@ code to real-world applications.
 
 <p align="center">
 
-💭 <b>Idea</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-🔎 <b>Explore</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-💻 <b>Build</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-🧪 <b>Improve</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-🚀 <b>Ship</b>
 
 </p>
-
 <p align="center">
-  <i>“small commits. big progress.”</i>
-</p>
-
-<br>
-
-<p align="center">
-  <code>while (learning) { keepBuilding(); }</code>
-</p>
-
-<p align="center">
-  <code>git push → hope → test → repeat 🚀</code>
-</p>
-
-<br>
-
----
-
-<!-- DEVELOPER MODE -->
-<h2 align="center">⚡ Developer Mode</h2>
-
-<p align="center">
-
+  
 💭 Idea
 &nbsp; → &nbsp;
 🔎 Explore
@@ -156,96 +125,13 @@ code to real-world applications.
 ✨ Improve
 &nbsp; → &nbsp;
 🚀 Deploy
-
-</p>
-
 <br>
-
 <p align="center">
-  <i>“break it. understand it. rebuild it.”</i>
-</p>
-
+  <code>while (learning) { 
+  keepBuilding(); }</code>
 <br>
 
----
 
-<!-- WHAT I'M BUILDING -->
-<h2 align="center">🏗️ What I'm Building</h2>
-
-<table align="center">
-<tr>
-
-<td align="center" width="250">
-
-### 💻 Web Projects
-
-Building responsive,
-interactive and useful
-web applications.
-
-<br>
-
-<code>// make ideas usable.</code>
-
-</td>
-
-<td align="center" width="250">
-
-### 🤖 AI Experiments
-
-Exploring ways to bring
-AI into practical
-applications.
-
-<br>
-
-<code>// what if I connect this?</code>
-
-</td>
-
-<td align="center" width="250">
-
-### 🎓 Learning Projects
-
-Learning new concepts
-by actually building
-with them.
-
-<br>
-
-<code>// learn → build → repeat.</code>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-<!-- PROJECT MINDSET -->
-<h2 align="center">🎯 My Project Mindset</h2>
-
-<p align="center">
-
-💭 Think of an idea
-&nbsp; → &nbsp;
-🛠️ Build a version
-&nbsp; → &nbsp;
-🐛 Find what breaks
-&nbsp; → &nbsp;
-🔧 Fix it
-&nbsp; → &nbsp;
-✨ Make it better
-
-</p>
-
-<br>
-
-<p align="center">
-  <code>// made it work. now making it better.</code>
-</p>
 
 <br>
 
@@ -278,65 +164,6 @@ with them.
 
 ---
 
-<!-- LEARNING LOOP -->
-<h2 align="center">🧠 My Learning Loop</h2>
-
-<p align="center">
-
-📚 Learn
-&nbsp; → &nbsp;
-🧪 Experiment
-&nbsp; → &nbsp;
-💻 Build
-&nbsp; → &nbsp;
-🐛 Debug
-&nbsp; → &nbsp;
-💡 Understand
-&nbsp; → &nbsp;
-🔁 Repeat
-
-</p>
-
-<br>
-
-<p align="center">
-  <code>if (somethingDoesntWork) → understand → fix → tryAgain()</code>
-</p>
-
-<p align="center">
-  <code>console.log("still figuring it out...");</code>
-</p>
-
-<br>
-
----
-
-<!-- GITHUB STATS -->
-<h2 align="center">📊 My GitHub Journey</h2>
-
-<p align="center">
-
-<a href="https://github.com/Bhavyasri-vakkalagadda">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Bhavyasri-vakkalagadda&show_icons=true&bg_color=161326&title_color=E6B8FF&icon_color=8BE9FD&text_color=F8F8F2&border_color=3B3154"
-    height="180"
-    alt="GitHub Stats"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Bhavyasri-vakkalagadda">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyasri-vakkalagadda&layout=compact&bg_color=161326&title_color=E6B8FF&text_color=F8F8F2&border_color=3B3154&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</a>
-
-</p>
-
-<br>
 
 ---
 
@@ -381,63 +208,52 @@ with them.
 ---
 
 <!-- FIND ME -->
+<!-- ===================================================== -->
+<!--                     FIND ME                           -->
+<!-- ===================================================== -->
+
 <h2 align="center">🌐 Find Me Around</h2>
 
 <p align="center">
-  <i>“Let's turn an idea into something real.”</i>
+  <i>"Let's turn an idea into something real."</i>
 </p>
-
-<br>
 
 <p align="center">
-
-<a href="https://github.com/Bhavyasri-vakkalagadda">
-  <img
-    src="https://img.shields.io/badge/GitHub-Bhavyasri--vakkalagadda-161326?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/bhavya-sri-vakkalagadda-928739360/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Bhavya%20Sri%20Vakkalagadda-161326?style=for-the-badge&logo=linkedin&logoColor=8BE9FD"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://bhavya-vakkalagadda.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-161326?style=for-the-badge&logo=vercel&logoColor=FFB6C1"
-    alt="Portfolio"
-  />
-</a>
-
+  <a href="https://github.com/Bhavyasri-vakkalagadda">
+    <img
+      src="https://img.shields.io/badge/GitHub-Bhavyasri--vakkalagadda-161326?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/bhavya-sri-vakkalagadda-928739360/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Bhavya%20Sri%20Vakkalagadda-161326?style=for-the-badge&logo=linkedin&logoColor=8BE9FD"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="https://bhavya-vakkalagadda.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-161326?style=for-the-badge&logo=vercel&logoColor=FFB6C1"
+      alt="Portfolio"
+    />
+  </a>
 </p>
-
-<br>
 
 <p align="center">
-
-💻 <b>GitHub</b> → Where I build
-&nbsp;&nbsp;•&nbsp;&nbsp;
-💼 <b>LinkedIn</b> → Where I connect
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🌐 <b>Portfolio</b> → Where I showcase
-
+  💻 <b>GitHub</b> → Where I build
+  &nbsp; • &nbsp;
+  💼 <b>LinkedIn</b> → Where I connect
+  &nbsp; • &nbsp;
+  🌐 <b>Portfolio</b> → Where I showcase
 </p>
-
-<br>
 
 <p align="center">
   <code>git push → connect → build → repeat 🚀</code>
 </p>
 
-<br>
-
+---
 ---
 
 <!-- CONTRIBUTION SNAKE -->
@@ -456,31 +272,10 @@ with them.
 <br>
 
 ---
-
 <!-- FINAL -->
 <h2 align="center">🌙 Still Learning. Still Building. Still Curious.</h2>
-
 <p align="center">
   <i>From curiosity → code → something real. 💻✨</i>
 </p>
 
 <br>
-
-<p align="center">
-  <code>404: giving up not found</code>
-</p>
-
-<br>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:161326,50:302B63,100:8BE9FD&height=100&section=footer"
-  width="100%"
-  alt="Animated Footer"
-/>
-
-</p>
