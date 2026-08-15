@@ -38,14 +38,10 @@
 <td align="center" width="220">
 
 ### 🌐 Web
-
 Creating responsive interfaces
 and interactive web experiences.
-
 <br>
-
 `// make it simple. make it useful.`
-
 </td>
 
 <td align="center" width="220">
@@ -54,11 +50,8 @@ and interactive web experiences.
 
 Experimenting with AI-powered
 features and practical solutions.
-
 <br>
-
 `// curious enough to try.`
-
 </td>
 
 <td align="center" width="220">
@@ -69,20 +62,12 @@ Learning how ideas move from
 code to real-world applications.
 
 <br>
-
-`// one project at a time.`
-
 </td>
-
 </tr>
 </table>
-
 <br>
-
 <p align="center">
-
 `404: giving up not found`
-
 </p>
 
 ---
@@ -108,9 +93,7 @@ code to real-world applications.
 <!-- ===== BUILD PROCESS ===== -->
 
 <h2 align="center">💡 How I Build</h2>
-
 <p align="center">
-
 💭 <b>Idea</b>
 &nbsp;&nbsp;→&nbsp;&nbsp;
 🔎 <b>Explore</b>
@@ -120,16 +103,11 @@ code to real-world applications.
 🧪 <b>Improve</b>
 &nbsp;&nbsp;→&nbsp;&nbsp;
 🚀 <b>Ship</b>
-
 </p>
-
 <p align="center">
-  <i>“small commits. big progress.”</i>
-</p>
-
-<br>
-
-```text
+  ```text
 while (learning) {
     keepBuilding();
 }
+</p>
+<br>
