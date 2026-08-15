@@ -279,3 +279,7 @@ code to real-world applications.
 </p>
 
 <br>
+<p align="center">
+  <img src="footer.svg" alt="Bhavya Sri Vakkalagadda — Developer" width="100%"/>
+  Made by bhavya sri vakkalgadda with ❤️
+</p>
