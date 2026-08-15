@@ -272,14 +272,8 @@ code to real-world applications.
 <br>
 
 ---
-<!-- FINAL -->
-<h2 align="center">🌙 Still Learning. Still Building. Still Curious.</h2>
-<p align="center">
-  <i>From curiosity → code → something real. 💻✨</i>
-</p>
-
 <br>
 <p align="center">
   <img src="footer.svg" alt="Bhavya Sri Vakkalagadda — Developer" width="100%"/>
-  Made by bhavya sri vakkalgadda with ❤️
+  Made by bhavya sri vakkalagadda with ❤️
 </p>
