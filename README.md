@@ -1,12 +1,11 @@
-<!-- ===== HERO BANNER ===== -->
+<!-- HERO -->
 <p align="center">
   <img src="banner.svg" alt="Bhavya Sri Vakkalagadda — Developer" width="100%"/>
 </p>
 
 <br>
 
-<!-- ===== LITTLE INTRO ===== -->
-
+<!-- ABOUT ME -->
 <h2 align="center">✨ A Little About Me</h2>
 
 <p align="center">
@@ -28,8 +27,7 @@
 
 ---
 
-<!-- ===== EXPLORING ===== -->
-
+<!-- WHERE I'M EXPLORING -->
 <h2 align="center">🚀 Where I'm Exploring</h2>
 
 <table align="center">
@@ -44,7 +42,7 @@ and interactive web experiences.
 
 <br>
 
-`// make it simple. make it useful.`
+<code>// make it simple. make it useful.</code>
 
 </td>
 
@@ -57,7 +55,7 @@ features and practical solutions.
 
 <br>
 
-`// curious enough to try.`
+<code>// curious enough to try.</code>
 
 </td>
 
@@ -70,7 +68,7 @@ code to real-world applications.
 
 <br>
 
-`// one project at a time.`
+<code>// one project at a time.</code>
 
 </td>
 
@@ -85,14 +83,14 @@ code to real-world applications.
 
 ---
 
-<!-- ===== TECH ===== -->
-
+<!-- TOOLS -->
 <h2 align="center">🛠️ Tools & Technologies</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,git,github,vscode,vercel" />
-
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,python,c,git,github,vscode,vercel"
+    alt="Tools and Technologies"
+  />
 </p>
 
 <p align="center">
@@ -103,8 +101,7 @@ code to real-world applications.
 
 ---
 
-<!-- ===== BUILD PROCESS ===== -->
-
+<!-- HOW I BUILD -->
 <h2 align="center">💡 How I Build</h2>
 
 <p align="center">
@@ -127,7 +124,363 @@ code to real-world applications.
 
 <br>
 
-```text
-while (learning) {
-    keepBuilding();
-}
+<p align="center">
+  <code>while (learning) { keepBuilding(); }</code>
+</p>
+
+<p align="center">
+  <code>git push → hope → test → repeat 🚀</code>
+</p>
+
+<br>
+
+---
+
+<!-- DEVELOPER MODE -->
+<h2 align="center">⚡ Developer Mode</h2>
+
+<p align="center">
+
+💭 Idea
+&nbsp; → &nbsp;
+🔎 Explore
+&nbsp; → &nbsp;
+💻 Build
+&nbsp; → &nbsp;
+🐛 Something broke
+&nbsp; → &nbsp;
+🔍 Figure it out
+&nbsp; → &nbsp;
+🧪 Test
+&nbsp; → &nbsp;
+✨ Improve
+&nbsp; → &nbsp;
+🚀 Deploy
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>“break it. understand it. rebuild it.”</i>
+</p>
+
+<br>
+
+---
+
+<!-- WHAT I'M BUILDING -->
+<h2 align="center">🏗️ What I'm Building</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="250">
+
+### 💻 Web Projects
+
+Building responsive,
+interactive and useful
+web applications.
+
+<br>
+
+<code>// make ideas usable.</code>
+
+</td>
+
+<td align="center" width="250">
+
+### 🤖 AI Experiments
+
+Exploring ways to bring
+AI into practical
+applications.
+
+<br>
+
+<code>// what if I connect this?</code>
+
+</td>
+
+<td align="center" width="250">
+
+### 🎓 Learning Projects
+
+Learning new concepts
+by actually building
+with them.
+
+<br>
+
+<code>// learn → build → repeat.</code>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- PROJECT MINDSET -->
+<h2 align="center">🎯 My Project Mindset</h2>
+
+<p align="center">
+
+💭 Think of an idea
+&nbsp; → &nbsp;
+🛠️ Build a version
+&nbsp; → &nbsp;
+🐛 Find what breaks
+&nbsp; → &nbsp;
+🔧 Fix it
+&nbsp; → &nbsp;
+✨ Make it better
+
+</p>
+
+<br>
+
+<p align="center">
+  <code>// made it work. now making it better.</code>
+</p>
+
+<br>
+
+---
+
+<!-- CURRENTLY LEARNING -->
+<h2 align="center">🌱 Currently Learning</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-Exploring-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+<img src="https://img.shields.io/badge/React-Exploring-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+
+<img src="https://img.shields.io/badge/Backend-Learning-C084FC?style=for-the-badge" alt="Backend"/>
+
+<img src="https://img.shields.io/badge/AI-Exploring-E9D5FF?style=for-the-badge" alt="AI"/>
+
+<img src="https://img.shields.io/badge/DSA-Practicing-FFB6C1?style=for-the-badge" alt="DSA"/>
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>“I don't need to know everything. I just need to keep learning.”</i>
+</p>
+
+<br>
+
+---
+
+<!-- LEARNING LOOP -->
+<h2 align="center">🧠 My Learning Loop</h2>
+
+<p align="center">
+
+📚 Learn
+&nbsp; → &nbsp;
+🧪 Experiment
+&nbsp; → &nbsp;
+💻 Build
+&nbsp; → &nbsp;
+🐛 Debug
+&nbsp; → &nbsp;
+💡 Understand
+&nbsp; → &nbsp;
+🔁 Repeat
+
+</p>
+
+<br>
+
+<p align="center">
+  <code>if (somethingDoesntWork) → understand → fix → tryAgain()</code>
+</p>
+
+<p align="center">
+  <code>console.log("still figuring it out...");</code>
+</p>
+
+<br>
+
+---
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 My GitHub Journey</h2>
+
+<p align="center">
+
+<a href="https://github.com/Bhavyasri-vakkalagadda">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Bhavyasri-vakkalagadda&show_icons=true&bg_color=161326&title_color=E6B8FF&icon_color=8BE9FD&text_color=F8F8F2&border_color=3B3154"
+    height="180"
+    alt="GitHub Stats"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Bhavyasri-vakkalagadda">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyasri-vakkalagadda&layout=compact&bg_color=161326&title_color=E6B8FF&text_color=F8F8F2&border_color=3B3154&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</a>
+
+</p>
+
+<br>
+
+---
+
+<!-- STREAK -->
+<h2 align="center">🔥 Coding Streak</h2>
+
+<p align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavyasri-vakkalagadda&background=161326&ring=E6B8FF&fire=FFB6C1&currStreakLabel=8BE9FD&sideLabels=F8F8F2&currStreakNum=FFFFFF&dates=9AA7BD&border=3B3154"
+  width="520"
+  alt="GitHub Streak"
+/>
+
+</p>
+
+<br>
+
+---
+
+<!-- ACTIVITY -->
+<h2 align="center">📈 Coding Activity</h2>
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavyasri-vakkalagadda&bg_color=161326&color=E6B8FF&line=FFB6C1&point=8BE9FD&area_color=E6B8FF&area=true&hide_border=false&custom_title=%F0%9F%92%BB%20My%20Coding%20Journey"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>“small commits. big progress.”</i>
+</p>
+
+<br>
+
+---
+
+<!-- FIND ME -->
+<h2 align="center">🌐 Find Me Around</h2>
+
+<p align="center">
+  <i>“Let's turn an idea into something real.”</i>
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/Bhavyasri-vakkalagadda">
+  <img
+    src="https://img.shields.io/badge/GitHub-Bhavyasri--vakkalagadda-161326?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/bhavya-sri-vakkalagadda-928739360/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Bhavya%20Sri%20Vakkalagadda-161326?style=for-the-badge&logo=linkedin&logoColor=8BE9FD"
+    alt="LinkedIn"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://bhavya-vakkalagadda.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-161326?style=for-the-badge&logo=vercel&logoColor=FFB6C1"
+    alt="Portfolio"
+  />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+💻 <b>GitHub</b> → Where I build
+&nbsp;&nbsp;•&nbsp;&nbsp;
+💼 <b>LinkedIn</b> → Where I connect
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🌐 <b>Portfolio</b> → Where I showcase
+
+</p>
+
+<br>
+
+<p align="center">
+  <code>git push → connect → build → repeat 🚀</code>
+</p>
+
+<br>
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 Contribution Journey</h2>
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
+
+</p>
+
+<br>
+
+---
+
+<!-- FINAL -->
+<h2 align="center">🌙 Still Learning. Still Building. Still Curious.</h2>
+
+<p align="center">
+  <i>From curiosity → code → something real. 💻✨</i>
+</p>
+
+<br>
+
+<p align="center">
+  <code>404: giving up not found</code>
+</p>
+
+<br>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:161326,50:302B63,100:8BE9FD&height=100&section=footer"
+  width="100%"
+  alt="Animated Footer"
+/>
+
+</p>
