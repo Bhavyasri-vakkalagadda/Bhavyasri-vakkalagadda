@@ -1,6 +1,20 @@
 <!-- HERO -->
 <p align="center">
-  <img src="banner.svg" alt="Bhavya Sri Vakkalagadda — Developer" width="100%"/>
+  <img src="banner.svg" alt="Bhavya Sri Vakkalagadda — Web Developer" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://bhavyasri-vakkalagadda.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-161326?style=for-the-badge&logo=vercel&logoColor=FFB6C1" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/bhavyasri-vakkalagadda/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bhavya%20Sri%20Vakkalagadda-161326?style=for-the-badge&logo=linkedin&logoColor=8BE9FD" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:vbhavyasri2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-161326?style=for-the-badge&logo=gmail&logoColor=FFB6C1" alt="Email"/>
+  </a>
 </p>
 
 <br>
@@ -9,14 +23,13 @@
 <h2 align="center">✨ A Little About Me</h2>
 
 <p align="center">
-  I like turning ideas into things people can actually use.
+  I am a <b>Computer Engineering Student & Web Developer</b> passionate about turning ideas into high-performance, user-centric web applications.
   <br>
-  From designing interfaces to connecting logic behind them,
-  I'm always experimenting, building and learning.
+  Specializing in <b>React.js</b>, <b>JavaScript (ES6+)</b>, and <b>Python</b>, I focus on building responsive interfaces, clean architectures, and creative problem solving.
 </p>
 
 <p align="center">
-  <b>Web Development • AI • Backend • Problem Solving</b>
+  <b>Web Development • React.js • Python • Problem Solving • AI Exploration</b>
 </p>
 
 <p align="center">
@@ -35,10 +48,10 @@
 
 <td align="center" width="220">
 
-### 🌐 Web
+### 🌐 Frontend & Web
 
 Creating responsive interfaces
-and interactive web experiences.
+and interactive web experiences with React.js.
 
 <br>
 
@@ -48,27 +61,27 @@ and interactive web experiences.
 
 <td align="center" width="220">
 
-### 🤖 AI
+### 🐍 Python & Backend
 
-Experimenting with AI-powered
-features and practical solutions.
+Building robust logic, REST APIs,
+and algorithmic problem solving.
 
 <br>
 
-<code>// curious enough to try.</code>
+<code>// clean logic. solid foundations.</code>
 
 </td>
 
 <td align="center" width="220">
 
-### ⚙️ Development
+### 🤖 AI & Innovation
 
-Learning how ideas move from
-code to real-world applications.
+Experimenting with AI-powered
+features and modern dev tools.
 
 <br>
 
-<code>// one project at a time.</code>
+<code>// curious enough to try.</code>
 
 </td>
 
@@ -88,7 +101,7 @@ code to real-world applications.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,python,c,git,github,vscode,vercel"
+    src="https://skillicons.dev/icons?i=html,css,js,react,python,c,bootstrap,git,github,vscode,vercel"
     alt="Tools and Technologies"
   />
 </p>
@@ -105,11 +118,6 @@ code to real-world applications.
 <h2 align="center">💡 How I Build</h2>
 
 <p align="center">
-
-
-</p>
-<p align="center">
-  
 💭 Idea
 &nbsp; → &nbsp;
 🔎 Explore
@@ -125,13 +133,11 @@ code to real-world applications.
 ✨ Improve
 &nbsp; → &nbsp;
 🚀 Deploy
-<br>
+</p>
+
 <p align="center">
-  <code>while (learning) { 
-  keepBuilding(); }</code>
-<br>
-
-
+  <code>while (learning) { keepBuilding(); }</code>
+</p>
 
 <br>
 
@@ -141,17 +147,11 @@ code to real-world applications.
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/JavaScript-Exploring-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
 <img src="https://img.shields.io/badge/React-Exploring-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-
 <img src="https://img.shields.io/badge/Backend-Learning-C084FC?style=for-the-badge" alt="Backend"/>
-
 <img src="https://img.shields.io/badge/AI-Exploring-E9D5FF?style=for-the-badge" alt="AI"/>
-
 <img src="https://img.shields.io/badge/DSA-Practicing-FFB6C1?style=for-the-badge" alt="DSA"/>
-
 </p>
 
 <br>
@@ -164,20 +164,15 @@ code to real-world applications.
 
 ---
 
-
----
-
 <!-- STREAK -->
 <h2 align="center">🔥 Coding Streak</h2>
 
 <p align="center">
-
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavyasri-vakkalagadda&background=161326&ring=E6B8FF&fire=FFB6C1&currStreakLabel=8BE9FD&sideLabels=F8F8F2&currStreakNum=FFFFFF&dates=9AA7BD&border=3B3154"
   width="520"
   alt="GitHub Streak"
 />
-
 </p>
 
 <br>
@@ -188,13 +183,11 @@ code to real-world applications.
 <h2 align="center">📈 Coding Activity</h2>
 
 <p align="center">
-
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavyasri-vakkalagadda&bg_color=161326&color=E6B8FF&line=FFB6C1&point=8BE9FD&area_color=E6B8FF&area=true&hide_border=false&custom_title=%F0%9F%92%BB%20My%20Coding%20Journey"
   width="100%"
   alt="GitHub Activity Graph"
 />
-
 </p>
 
 <br>
@@ -208,10 +201,6 @@ code to real-world applications.
 ---
 
 <!-- FIND ME -->
-<!-- ===================================================== -->
-<!--                     FIND ME                           -->
-<!-- ===================================================== -->
-
 <h2 align="center">🌐 Find Me Around</h2>
 
 <p align="center">
@@ -226,14 +215,14 @@ code to real-world applications.
     />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/bhavya-sri-vakkalagadda-928739360/">
+  <a href="https://www.linkedin.com/in/bhavyasri-vakkalagadda/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Bhavya%20Sri%20Vakkalagadda-161326?style=for-the-badge&logo=linkedin&logoColor=8BE9FD"
       alt="LinkedIn"
     />
   </a>
   &nbsp;
-  <a href="https://bhavya-vakkalagadda.vercel.app/">
+  <a href="https://bhavyasri-vakkalagadda.vercel.app/">
     <img
       src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-161326?style=for-the-badge&logo=vercel&logoColor=FFB6C1"
       alt="Portfolio"
@@ -244,9 +233,9 @@ code to real-world applications.
 <p align="center">
   💻 <b>GitHub</b> → Where I build
   &nbsp; • &nbsp;
-  💼 <b>LinkedIn</b> → Where I connect
+  💼 <b><a href="https://www.linkedin.com/in/bhavyasri-vakkalagadda/">LinkedIn</a></b> → Where I connect
   &nbsp; • &nbsp;
-  🌐 <b>Portfolio</b> → Where I showcase
+  🌐 <b><a href="https://bhavyasri-vakkalagadda.vercel.app/">Portfolio</a></b> → Where I showcase
 </p>
 
 <p align="center">
@@ -254,19 +243,16 @@ code to real-world applications.
 </p>
 
 ---
----
 
 <!-- CONTRIBUTION SNAKE -->
 <h2 align="center">🐍 Contribution Journey</h2>
 
 <p align="center">
-
 <img
   src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   alt="GitHub Contribution Snake"
   width="100%"
 />
-
 </p>
 
 <br>
@@ -274,6 +260,6 @@ code to real-world applications.
 ---
 <br>
 <p align="center">
-  <img src="footer.svg" alt="Bhavya Sri Vakkalagadda — Developer" width="100%"/>
-  Made by bhavya sri vakkalagadda with ❤️
+  <img src="footer.svg" alt="Bhavya Sri Vakkalagadda — Web Developer" width="100%"/>
+  Made by Bhavya Sri Vakkalagadda with ❤️
 </p>
