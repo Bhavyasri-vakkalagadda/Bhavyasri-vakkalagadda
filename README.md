@@ -206,15 +206,6 @@ features and modern dev tools.
   <i>"Let's turn an idea into something real."</i>
 </p>
 </p>
-
-<p align="center">
-  💻 <b>GitHub</b> → Where I build
-  &nbsp; • &nbsp;
-  💼 <b><a href="https://www.linkedin.com/in/bhavyasri-vakkalagadda/">LinkedIn</a></b> → Where I connect
-  &nbsp; • &nbsp;
-  🌐 <b><a href="https://bhavyasri-vakkalagadda.vercel.app/">Portfolio</a></b> → Where I showcase
-</p>
-
 <p align="center">
   <code>git push → connect → build → repeat 🚀</code>
 </p>
