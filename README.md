@@ -201,33 +201,10 @@ features and modern dev tools.
 ---
 
 <!-- FIND ME -->
-<h2 align="center">🌐 Find Me Around</h2>
 
 <p align="center">
   <i>"Let's turn an idea into something real."</i>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Bhavyasri-vakkalagadda">
-    <img
-      src="https://img.shields.io/badge/GitHub-Bhavyasri--vakkalagadda-161326?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/bhavyasri-vakkalagadda/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Bhavya%20Sri%20Vakkalagadda-161326?style=for-the-badge&logo=linkedin&logoColor=8BE9FD"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;
-  <a href="https://bhavyasri-vakkalagadda.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-161326?style=for-the-badge&logo=vercel&logoColor=FFB6C1"
-      alt="Portfolio"
-    />
-  </a>
 </p>
 
 <p align="center">
